@@ -25,3 +25,5 @@ doxygen/
 /.cproject
 /.settings
 /.pydevproject
+/.idea
+/.DS_Store
